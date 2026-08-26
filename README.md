@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Valdemiro Monteiro 👋</h1>
 
-<h3 align="center">>$ PROGRAMADOR | 👨🏾‍💻 AUTOMAÇÃO E MACHINE LEARNING | 🚦 PYTHON DEBUGGER | 👾 DESENVOLVEDOR IA | 📊 ANALISTA E ADMINISTRADOR DE DADOS</h3>
+<h3 align="center">>$ PROGRAMADOR EM: | 👨🏾‍💻 AUTOMAÇÃO E MACHINE LEARNING | 🚦 PYTHON DEBUGGER | 👾 DESENVOLVEDOR IA | 📊 ANALISTA E ADMINISTRADOR DE DADOS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=%23!%2Fusr%2Fbin%2Fenv+python3;Automação+%2B+Machine+Learning;Python+%7C+C+%7C+UNIX;Analista+de+Dados" alt="Typing SVG" />
